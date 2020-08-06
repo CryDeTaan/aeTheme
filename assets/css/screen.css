@@ -2922,7 +2922,7 @@ Usage (In Ghost editor):
     }
 
     .post-full-title {
-        color: rgba(255, 255, 255, 0.9);
+        color: green;
     }
 
     .post-full-custom-excerpt {
